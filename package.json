@@ -8,7 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "sonar": "sonar-scanner"
+    "sonar": "sonar-scanner",
+    "prepare": "husky"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -24,6 +25,8 @@
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.3.0",
     "sonarqube-scanner": "^4.2.6",
     "vite": "^5.4.11"
   }
