@@ -1,7 +1,0 @@
-organization=dmitriyn3679
-projectKey=dmitriyn3679_sonarqube
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.58807
-dashboardUrl=https://sonarcloud.io/dashboard?id=dmitriyn3679_sonarqube
-ceTaskId=AZRlI_OZ768UrkA1XmY_
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZRlI_OZ768UrkA1XmY_
